@@ -1,7 +1,7 @@
 # ToDo
 
-App de lista de Tarefas
-Nele Podemos:
+<h3>App de lista de Tarefas</h3>
+<h3>Nele Podemos:</h3>
 
 1. Acrescentar Tarefas
 2. Excluir Tarefas
