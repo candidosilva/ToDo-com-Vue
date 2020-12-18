@@ -27,7 +27,7 @@ export default {
     }
 
     .progress-bar {
-        /* position: absolute; */
+        position: absolute;
         border-radius: 8px;
         height: 100%;
         background-color: #4caf50;

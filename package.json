@@ -1,6 +1,7 @@
 {
   "name": "tarefas",
   "version": "0.1.0",
+  "homepage": "https://candidosilva.com.br/tarefas",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
