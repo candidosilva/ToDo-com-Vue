@@ -1,29 +1,11 @@
-# todo
+# ToDo
 
-## Project setup
-```
-npm install
-```
+App de lista de Tarefas
+Nele Podemos:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1 - Acrescentar Tarefas
+2 - Excluir Tarefas
+3 - Marcar as Tarefas como concluidas
+4 - Acompanhar a % de tarefas concluidas
+5 - As tarefas ficam salvas no Web Storage de forma que se você fechar a janela e entrar novamente elas aparecem novamente.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
